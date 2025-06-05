@@ -4,6 +4,13 @@ body {
 }
 
 
-header h1{
-  color: red;
+#about{
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  margin: 20px;
+}
+
+#about h2{
+  color: #333;
 }
